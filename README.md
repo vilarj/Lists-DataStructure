@@ -1,2 +1,2 @@
 # Lists-DataStructure
-Read the word Document
+Read the word document
